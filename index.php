@@ -32,17 +32,17 @@
                 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/42266763&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
             </section>
             
-            <section class="col span_12_of_12">
+        </section>
+            
+        
+        <section class="section group" id="mixes">
+            <section class="col span_6_of_12">
                 <h2>JAretro Music Videos</h2>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLqUwdud-NS6PMfoa6R5r9xVrmk4EsVkrF" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </section>
             
-        </section>
-            
-        
-        <section class="section group" id="mixes">    
-            <h2>JAretro Mixes & Sets</h2>
-            <section class="col span_12_of_12">
+            <section class="col span_6_of_12">
+                <h2>JAretro Mixes & Sets</h2>
                 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FJAretro%2Fjaretro-6-14-18-mix%2F" frameborder="0" ></iframe>
                 <a href="https://www.mixcloud.com/JAretro/"><p>View JAretro's Mixcloud</p></a>
             </section>
@@ -71,33 +71,13 @@
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li> 
-            <li data-target="#myCarousel" data-slide-to="3"></li>
-            <li data-target="#myCarousel" data-slide-to="4"></li> 
-            <li data-target="#myCarousel" data-slide-to="5"></li> 
-            <li data-target="#myCarousel" data-slide-to="6"></li>
-            <li data-target="#myCarousel" data-slide-to="7"></li>           
+            <li data-target="#myCarousel" data-slide-to="3"></li>     
             </ol>    
 
             <!-- Wrapper for slides -->
-            <div class="carousel-inner">
+            <div class="carousel-inner">     
                 
             <div class="item active">
-            <img src="images/jeremy-alexander-headshot-1-resize.jpg" alt="Jeremy Alexander Headshot" style="width:100%;">
-            </div>
-
-            <div class="item">
-            <img src="images/jeremy-alexander-headshot-2-resize.jpg" alt="Jeremy Alexander Headshot" style="width:100%;">
-            </div>
-                
-            <div class="item">
-            <img src="images/jeremy-alexander-headshot-4-black-white-resize.jpg" alt="Jeremy Alexander Headshot" style="width:100%;">
-            </div>
-                    
-            <div class="item">
-            <img src="images/jeremy-3d-graphic-design-aja.jpg" alt="Jeremy in 3D" style="width:100%;">
-            </div>      
-                
-            <div class="item">
             <img src="images/jeremy-nature-1.png" alt="Jeremy in the Forest" style="width:100%;">
             </div>
                 

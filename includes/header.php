@@ -19,7 +19,7 @@
     
     <link rel="icon" 
       type="image/x-icon" 
-      href="http://jeremyalexander.webhostingforstudents.com/mock-sites/jaretro-music/">
+      href="http://music.jaretro.com/">
     
     <link rel="icon" href="favicon.ico" sizes="16x16" type="image/x-icon">
     
@@ -40,7 +40,7 @@
             <li><a href="https://www.mixcloud.com/JAretro/" target="_blank"><img src="images/mixcloud-WhiteOnNavy.png" alt="Mixcloud Mixes and Sets" id="ui-icon"></a></li>
             <li><a href="https://jaretro.bandcamp.com/" target="_blank"><img src="images/bandcamp-button-bc-circle-aqua-32.png" alt="Mixcloud Mixes and Sets" id="ui-icon"></a></li>    
             <li><a href="http://www.andrewjosephalexander.com/" target="_blank"><img src="images/AA506.jpg" alt="Andrew Joseph Alexander" id="ui-icon"></a></li>
-            <li><a href="mailto:jmalexander29@gmail.com?Subject=Website-Inquiry" target="_top"><img src="images/mail-ui-icon.png" alt="e-mail" id="ui-icon"></a></li>
+            <li><a href="mailto:jaretrobeats@gmail.com?Subject=Website-Inquiry" target="_top"><img src="images/mail-ui-icon.png" alt="e-mail" id="ui-icon"></a></li>
             </ul>
         </aside>    
     </header>

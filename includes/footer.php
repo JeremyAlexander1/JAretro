@@ -11,7 +11,7 @@
             <li><a href="https://www.mixcloud.com/JAretro/" target="_blank"><img src="images/mixcloud-WhiteOnNavy.png" alt="Mixcloud Mixes and Sets" id="ui-icon"></a></li>
             <li><a href="https://jaretro.bandcamp.com/" target="_blank"><img src="images/bandcamp-button-bc-circle-aqua-32.png" alt="Bandcamp Discography" id="ui-icon"></a></li>
             <li><a href="http://www.andrewjosephalexander.com/" target="_blank"><img src="images/AA506.jpg" alt="Andrew Joseph Alexander" id="ui-icon"></a></li>
-            <li><a href="mailto:jmalexander29@gmail.com?Subject=Website-Inquiry" target="_top"><img src="images/mail-ui-icon.png" alt="e-mail" id="ui-icon"></a></li>
+            <li><a href="mailto:jaretrobeats@gmail.com?Subject=Website-Inquiry" target="_top"><img src="images/mail-ui-icon.png" alt="e-mail" id="ui-icon"></a></li>
             </ul>
         </section>
         <section class="col span_12_of_12">
@@ -26,12 +26,12 @@
         include 'includes/date-include.php';
     ?>
     <p>(Los Angeles time zone)</p>
-    <a href="http://jeremyalexander.webhostingforstudents.com/" id="designed-by">
-        <p id="designed-by">Website Designed by 
+    <a href="http://jaretro.com/" id="designed-by">
+        <p id="designed-by">Web site designed by 
         <br>
         Jeremy Alexander
         <br>
-        &copy;2018</p>  
+        &copy;2019</p>  
     </a>     
     </footer>
     

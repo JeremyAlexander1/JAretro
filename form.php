@@ -5,12 +5,12 @@
     <title>Contact Form</title>
 </head>
 <body>
-<form action="mail_success.php" method="post">
+<form action="thankyou.php" method="post">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" placeholder="Your name.." class="form-color" required>
 
     <label for="email">E-mail</label>
-    <input type="text" id="email" name="email" placeholder="Your e-mail.." class="form-color" required>
+    <input type="email" id="email" name="email" placeholder="Your e-mail.." class="form-color" required>
 
     <label for="comment">Comment</label>
     <textarea id="comment" name="comment" placeholder="Write your message here!" class="form-color" required></textarea>

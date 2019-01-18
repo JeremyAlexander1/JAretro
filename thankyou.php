@@ -29,7 +29,7 @@
 $servername = "localhost";
 $database = "jeremy_webdesign_db";
 $username = "jeremy_webdesign";
-$password = "Beyondclouds29!";
+$password = "********";
 $users_name = $_POST['name'];
 $users_email = $_POST['email'];
 $users_comment = $_POST['comment'];    
